@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <otrs_package version="1.0">
     <Name>ServiceTicketType</Name>
-    <Version>5.0.3</Version>
+    <Version>6.0.0</Version>
     <Vendor>Complemento [Free]</Vendor>
     <URL>http://www.complemento.net.br/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
@@ -18,10 +18,10 @@
 	    &lt;/li&gt;
     &lt;/ul&gt;
     </IntroInstall>    
-    <Framework>5.0.x</Framework>
+    <Framework>6.0.x</Framework>
     <Filelist>
         <File Location="Custom/ServiceTicketType.sopm" Permission="644"></File>
-        <File Location="Kernel/Config/Files/ServiceTicketType.xml" Permission="644"></File>
+        <File Location="Kernel/Config/Files/XML/ServiceTicketType.xml" Permission="644"></File>
         <File Location="Kernel/Output/HTML/ServicePreferences/Type.pm" Permission="644"></File>
         <File Location="Kernel/System/Ticket/Event/ServiceTicketType.pm" Permission="644"></File>
     </Filelist>
