@@ -2,7 +2,7 @@
 <otrs_package version="1.0">
     <Name>ServiceTicketType</Name>
     <Version>6.0.0</Version>
-    <Vendor>Complemento [Free]</Vendor>
+    <Vendor>Ligero [Community]</Vendor>
     <URL>http://www.complemento.net.br/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</License>
     <Description Lang="en">
